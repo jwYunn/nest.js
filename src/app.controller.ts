@@ -9,11 +9,6 @@ export class AppController {
   getHello(): string {
     console.log(1243);
     console.log(1243);
-    console.log(1243);
-    console.log(1243);
-    console.log(1243);
-    console.log(1243);
-    console.log(1243);
     console.log(123);
     console.log(123);
     
