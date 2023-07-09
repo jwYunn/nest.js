@@ -12,6 +12,9 @@ export class AppController {
     console.log(1243);
     console.log(1243);
     console.log(1243);
+    console.log(1243);
+    console.log(1243);
+    console.log(1243);
     
     return this.appService.getHello();
   }
