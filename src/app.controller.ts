@@ -9,7 +9,6 @@ export class AppController {
   getHello(): string {
     console.log(777);
     console.log(777);
-    console.log(777);
     
     return this.appService.getHello();
   }
